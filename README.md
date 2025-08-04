@@ -4,5 +4,7 @@
 3. can not alias primitive / can alias primitive
 
 ## Union and Intersection types in TypeScript
-1. when we need 
+1. type userRole = "admin" | "user" , using Union
+2. type access = "admin" & "token", using Intersection
+* Union Like OR operator and Intersection like AND operator
 
